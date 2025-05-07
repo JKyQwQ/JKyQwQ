@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-StrayCat here. 
+StrayCat here. Computational Statistics and Machine Learning MSc student at UCL. 
 
+I also chart for rhythm games: Phigros / Bleap / Dynamix (as guest charter)
+
+...up to date 7th May 2025
 <!--
-**JKyQwQ/JKyQwQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JKyStray/JKyStray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
